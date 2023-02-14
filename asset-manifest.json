@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/student-fullstack/static/css/main.756af292.css",
-    "main.js": "/student-fullstack/static/js/main.123637d1.js",
+    "main.js": "/student-fullstack/static/js/main.a6757328.js",
     "static/js/787.6a48a04b.chunk.js": "/student-fullstack/static/js/787.6a48a04b.chunk.js",
     "index.html": "/student-fullstack/index.html",
     "main.756af292.css.map": "/student-fullstack/static/css/main.756af292.css.map",
-    "main.123637d1.js.map": "/student-fullstack/static/js/main.123637d1.js.map",
+    "main.a6757328.js.map": "/student-fullstack/static/js/main.a6757328.js.map",
     "787.6a48a04b.chunk.js.map": "/student-fullstack/static/js/787.6a48a04b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.756af292.css",
-    "static/js/main.123637d1.js"
+    "static/js/main.a6757328.js"
   ]
 }
